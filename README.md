@@ -9,5 +9,11 @@ The scene includes a controllable car, a moving crane which interacts with the c
 The user can control the car using the WASD keys (move forward, turn left, move backwards and turn right).  
 Whenever the car is on top of the target the crane picks it up and moves it.  
 The car speed and the light sources are controllable through the interface.  
-
 ![](images/gif1.gif)
+  
+  
+Contributors:
+* Afonso Azevedo ([4-Z3r0](https://github.com/4-Z3r0))
+* Susana Lima ([susanalima](https://github.com/susanalima))  
+    
+This repository corresponds to a university project and as such is for educational purposes only.
