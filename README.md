@@ -2,7 +2,7 @@
 
 A project for the CGRA course (Computer Graphics).  
 CGRA is a 2nd year, 2nd semester course (more info here:  
-https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399891)
+https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399891).  
 The project's theme is the implementation of an interactive scene through the modelling of various components
 
 The scene includes a controllable car, a moving crane which interacts with the car, multiple light sources and a terrain.  
